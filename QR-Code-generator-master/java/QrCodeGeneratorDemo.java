@@ -166,7 +166,6 @@ public final class QrCodeGeneratorDemo {
 	}
 	
 	
-	
 	/*---- Utilities ----*/
 	
 	private static BufferedImage toImage(QrCode qr, int scale, int border) {
