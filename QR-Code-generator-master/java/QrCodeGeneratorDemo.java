@@ -97,6 +97,7 @@ public final class QrCodeGeneratorDemo {
 			+ "a White Rabbit with pink eyes ran close by her.", QrCode.Ecc.HIGH);
 		writePng(toImage(qr, 6, 10), "alice-wonderland-QR.png");
 	}
+
 	
 	
 	// Creates QR Codes with manually specified segments for better compactness.
