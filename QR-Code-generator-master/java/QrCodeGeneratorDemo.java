@@ -49,7 +49,6 @@ public final class QrCodeGeneratorDemo {
 	}
 	
 	
-	
 	/*---- Demo suite ----*/
 	
 	// Creates a single QR Code, then writes it to a PNG file and an SVG file.
