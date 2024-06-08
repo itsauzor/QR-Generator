@@ -98,6 +98,7 @@ public final class QrCodeGeneratorDemo {
 	}
 
 	
+
 	
 	// Creates QR Codes with manually specified segments for better compactness.
 	private static void doSegmentDemo() throws IOException {
