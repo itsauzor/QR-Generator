@@ -28,6 +28,7 @@ from typing import List
 from qrcodegen import QrCode, QrSegment
 
 
+
 def main() -> None:
 	"""The main application program."""
 	do_basic_demo()
