@@ -50,7 +50,6 @@ def do_basic_demo() -> None:
 	print_qr(qr)
 	print(to_svg_str(qr, 4))
 
-
 def do_variety_demo() -> None:
 	"""Creates a variety of QR Codes that exercise different features of the library, and prints each one to the console."""
 	
