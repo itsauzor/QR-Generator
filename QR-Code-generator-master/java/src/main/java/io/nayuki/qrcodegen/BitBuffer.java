@@ -26,6 +26,7 @@ package io.nayuki.qrcodegen;
 import java.util.BitSet;
 import java.util.Objects;
 
+
 /**
  * An appendable sequence of bits (0s and 1s). Mainly used by {@link QrSegment}.
  */
